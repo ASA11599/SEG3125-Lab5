@@ -1,0 +1,16 @@
+i#logo {
+    font-size: 5em;
+    color: blueviolet;
+}
+
+h1, h2, h3, p, label {
+    font-family: 'Odibee Sans', cursive;
+}
+
+img.service-img {
+    margin: 10px;
+}
+
+footer#my-footer {
+    margin: 0;
+}
